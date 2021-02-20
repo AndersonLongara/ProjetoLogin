@@ -51,4 +51,5 @@ export const Container = styled.View<ContainerProps>`
 
 export const TextInput = styled.TextInput`
     font-size: 14px;
+    width: 90%;
 `;
